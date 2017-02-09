@@ -1,0 +1,1184 @@
+fileFormatVersion: 2
+guid: 1b5fe7f26034275479404f58efcff5d0
+timeCreated: 1486394120
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Lady_With_Shawl_Aprons
+    100004: Lady_With_Shawl_Aprons0
+    100006: Lady_With_Shawl_Aprons0 1
+    100008: Lady_With_Shawl_Aprons1
+    100010: Lady_With_Shawl_Aprons1 1
+    100012: Lady_With_Shawl_Body
+    100014: Lady_With_Shawl_Body1
+    100016: Lady_With_Shawl_Body1 1
+    100018: Lady_With_Shawl_Bottoms
+    100020: Lady_With_Shawl_default
+    100022: Lady_With_Shawl_default1
+    100024: Lady_With_Shawl_default1 1
+    100026: Lady_With_Shawl_Eyelashes
+    100028: Lady_With_Shawl_Eyelashes1
+    100030: Lady_With_Shawl_Eyelashes1 1
+    100032: Lady_With_Shawl_Hats
+    100034: Lady_With_Shawl_Hats1
+    100036: Lady_With_Shawl_Hats1 1
+    100038: Lady_With_Shawl_Lady_With_Shawl
+    100040: Lady_With_Shawl_mixamorig_Head
+    100042: Lady_With_Shawl_mixamorig_HeadTop_End
+    100044: Lady_With_Shawl_mixamorig_Hips
+    100046: Lady_With_Shawl_mixamorig_LeftArm
+    100048: Lady_With_Shawl_mixamorig_LeftEye
+    100050: Lady_With_Shawl_mixamorig_LeftFoot
+    100052: Lady_With_Shawl_mixamorig_LeftForeArm
+    100054: Lady_With_Shawl_mixamorig_LeftHand
+    100056: Lady_With_Shawl_mixamorig_LeftHandIndex1
+    100058: Lady_With_Shawl_mixamorig_LeftHandIndex2
+    100060: Lady_With_Shawl_mixamorig_LeftHandIndex3
+    100062: Lady_With_Shawl_mixamorig_LeftHandIndex4
+    100064: Lady_With_Shawl_mixamorig_LeftHandMiddle1
+    100066: Lady_With_Shawl_mixamorig_LeftHandMiddle2
+    100068: Lady_With_Shawl_mixamorig_LeftHandMiddle3
+    100070: Lady_With_Shawl_mixamorig_LeftHandMiddle4
+    100072: Lady_With_Shawl_mixamorig_LeftHandPinky1
+    100074: Lady_With_Shawl_mixamorig_LeftHandPinky2
+    100076: Lady_With_Shawl_mixamorig_LeftHandPinky3
+    100078: Lady_With_Shawl_mixamorig_LeftHandPinky4
+    100080: Lady_With_Shawl_mixamorig_LeftHandRing1
+    100082: Lady_With_Shawl_mixamorig_LeftHandRing2
+    100084: Lady_With_Shawl_mixamorig_LeftHandRing3
+    100086: Lady_With_Shawl_mixamorig_LeftHandRing4
+    100088: Lady_With_Shawl_mixamorig_LeftHandThumb1
+    100090: Lady_With_Shawl_mixamorig_LeftHandThumb2
+    100092: Lady_With_Shawl_mixamorig_LeftHandThumb3
+    100094: Lady_With_Shawl_mixamorig_LeftHandThumb4
+    100096: Lady_With_Shawl_mixamorig_LeftLeg
+    100098: Lady_With_Shawl_mixamorig_LeftShoulder
+    100100: Lady_With_Shawl_mixamorig_LeftToe_End
+    100102: Lady_With_Shawl_mixamorig_LeftToeBase
+    100104: Lady_With_Shawl_mixamorig_LeftUpLeg
+    100106: Lady_With_Shawl_mixamorig_Neck
+    100108: Lady_With_Shawl_mixamorig_RightArm
+    100110: Lady_With_Shawl_mixamorig_RightEye
+    100112: Lady_With_Shawl_mixamorig_RightFoot
+    100114: Lady_With_Shawl_mixamorig_RightForeArm
+    100116: Lady_With_Shawl_mixamorig_RightHand
+    100118: Lady_With_Shawl_mixamorig_RightHandIndex1
+    100120: Lady_With_Shawl_mixamorig_RightHandIndex2
+    100122: Lady_With_Shawl_mixamorig_RightHandIndex3
+    100124: Lady_With_Shawl_mixamorig_RightHandIndex4
+    100126: Lady_With_Shawl_mixamorig_RightHandMiddle1
+    100128: Lady_With_Shawl_mixamorig_RightHandMiddle2
+    100130: Lady_With_Shawl_mixamorig_RightHandMiddle3
+    100132: Lady_With_Shawl_mixamorig_RightHandMiddle4
+    100134: Lady_With_Shawl_mixamorig_RightHandPinky1
+    100136: Lady_With_Shawl_mixamorig_RightHandPinky2
+    100138: Lady_With_Shawl_mixamorig_RightHandPinky3
+    100140: Lady_With_Shawl_mixamorig_RightHandPinky4
+    100142: Lady_With_Shawl_mixamorig_RightHandRing1
+    100144: Lady_With_Shawl_mixamorig_RightHandRing2
+    100146: Lady_With_Shawl_mixamorig_RightHandRing3
+    100148: Lady_With_Shawl_mixamorig_RightHandRing4
+    100150: Lady_With_Shawl_mixamorig_RightHandThumb1
+    100152: Lady_With_Shawl_mixamorig_RightHandThumb2
+    100154: Lady_With_Shawl_mixamorig_RightHandThumb3
+    100156: Lady_With_Shawl_mixamorig_RightHandThumb4
+    100158: Lady_With_Shawl_mixamorig_RightLeg
+    100160: Lady_With_Shawl_mixamorig_RightShoulder
+    100162: Lady_With_Shawl_mixamorig_RightToe_End
+    100164: Lady_With_Shawl_mixamorig_RightToeBase
+    100166: Lady_With_Shawl_mixamorig_RightUpLeg
+    100168: Lady_With_Shawl_mixamorig_Spine
+    100170: Lady_With_Shawl_mixamorig_Spine1
+    100172: Lady_With_Shawl_mixamorig_Spine2
+    100174: Lady_With_Shawl_Shawls
+    100176: Lady_With_Shawl_Shawls1
+    100178: Lady_With_Shawl_Shawls1 1
+    100180: Lady_With_Shawl_Shoes
+    100182: Lady_With_Shawl_Shoes1
+    100184: Lady_With_Shawl_Shoes1 1
+    100186: Lady_With_Shawl_Tops
+    100188: Lady_With_Shawl_Tops1
+    100190: Lady_With_Shawl_Tops1 1
+    100192: U3DMesh
+    400000: //RootNode
+    400002: Lady_With_Shawl_Aprons
+    400004: Lady_With_Shawl_Aprons0
+    400006: Lady_With_Shawl_Aprons0 1
+    400008: Lady_With_Shawl_Aprons1
+    400010: Lady_With_Shawl_Aprons1 1
+    400012: Lady_With_Shawl_Body
+    400014: Lady_With_Shawl_Body1
+    400016: Lady_With_Shawl_Body1 1
+    400018: Lady_With_Shawl_Bottoms
+    400020: Lady_With_Shawl_default
+    400022: Lady_With_Shawl_default1
+    400024: Lady_With_Shawl_default1 1
+    400026: Lady_With_Shawl_Eyelashes
+    400028: Lady_With_Shawl_Eyelashes1
+    400030: Lady_With_Shawl_Eyelashes1 1
+    400032: Lady_With_Shawl_Hats
+    400034: Lady_With_Shawl_Hats1
+    400036: Lady_With_Shawl_Hats1 1
+    400038: Lady_With_Shawl_Lady_With_Shawl
+    400040: Lady_With_Shawl_mixamorig_Head
+    400042: Lady_With_Shawl_mixamorig_HeadTop_End
+    400044: Lady_With_Shawl_mixamorig_Hips
+    400046: Lady_With_Shawl_mixamorig_LeftArm
+    400048: Lady_With_Shawl_mixamorig_LeftEye
+    400050: Lady_With_Shawl_mixamorig_LeftFoot
+    400052: Lady_With_Shawl_mixamorig_LeftForeArm
+    400054: Lady_With_Shawl_mixamorig_LeftHand
+    400056: Lady_With_Shawl_mixamorig_LeftHandIndex1
+    400058: Lady_With_Shawl_mixamorig_LeftHandIndex2
+    400060: Lady_With_Shawl_mixamorig_LeftHandIndex3
+    400062: Lady_With_Shawl_mixamorig_LeftHandIndex4
+    400064: Lady_With_Shawl_mixamorig_LeftHandMiddle1
+    400066: Lady_With_Shawl_mixamorig_LeftHandMiddle2
+    400068: Lady_With_Shawl_mixamorig_LeftHandMiddle3
+    400070: Lady_With_Shawl_mixamorig_LeftHandMiddle4
+    400072: Lady_With_Shawl_mixamorig_LeftHandPinky1
+    400074: Lady_With_Shawl_mixamorig_LeftHandPinky2
+    400076: Lady_With_Shawl_mixamorig_LeftHandPinky3
+    400078: Lady_With_Shawl_mixamorig_LeftHandPinky4
+    400080: Lady_With_Shawl_mixamorig_LeftHandRing1
+    400082: Lady_With_Shawl_mixamorig_LeftHandRing2
+    400084: Lady_With_Shawl_mixamorig_LeftHandRing3
+    400086: Lady_With_Shawl_mixamorig_LeftHandRing4
+    400088: Lady_With_Shawl_mixamorig_LeftHandThumb1
+    400090: Lady_With_Shawl_mixamorig_LeftHandThumb2
+    400092: Lady_With_Shawl_mixamorig_LeftHandThumb3
+    400094: Lady_With_Shawl_mixamorig_LeftHandThumb4
+    400096: Lady_With_Shawl_mixamorig_LeftLeg
+    400098: Lady_With_Shawl_mixamorig_LeftShoulder
+    400100: Lady_With_Shawl_mixamorig_LeftToe_End
+    400102: Lady_With_Shawl_mixamorig_LeftToeBase
+    400104: Lady_With_Shawl_mixamorig_LeftUpLeg
+    400106: Lady_With_Shawl_mixamorig_Neck
+    400108: Lady_With_Shawl_mixamorig_RightArm
+    400110: Lady_With_Shawl_mixamorig_RightEye
+    400112: Lady_With_Shawl_mixamorig_RightFoot
+    400114: Lady_With_Shawl_mixamorig_RightForeArm
+    400116: Lady_With_Shawl_mixamorig_RightHand
+    400118: Lady_With_Shawl_mixamorig_RightHandIndex1
+    400120: Lady_With_Shawl_mixamorig_RightHandIndex2
+    400122: Lady_With_Shawl_mixamorig_RightHandIndex3
+    400124: Lady_With_Shawl_mixamorig_RightHandIndex4
+    400126: Lady_With_Shawl_mixamorig_RightHandMiddle1
+    400128: Lady_With_Shawl_mixamorig_RightHandMiddle2
+    400130: Lady_With_Shawl_mixamorig_RightHandMiddle3
+    400132: Lady_With_Shawl_mixamorig_RightHandMiddle4
+    400134: Lady_With_Shawl_mixamorig_RightHandPinky1
+    400136: Lady_With_Shawl_mixamorig_RightHandPinky2
+    400138: Lady_With_Shawl_mixamorig_RightHandPinky3
+    400140: Lady_With_Shawl_mixamorig_RightHandPinky4
+    400142: Lady_With_Shawl_mixamorig_RightHandRing1
+    400144: Lady_With_Shawl_mixamorig_RightHandRing2
+    400146: Lady_With_Shawl_mixamorig_RightHandRing3
+    400148: Lady_With_Shawl_mixamorig_RightHandRing4
+    400150: Lady_With_Shawl_mixamorig_RightHandThumb1
+    400152: Lady_With_Shawl_mixamorig_RightHandThumb2
+    400154: Lady_With_Shawl_mixamorig_RightHandThumb3
+    400156: Lady_With_Shawl_mixamorig_RightHandThumb4
+    400158: Lady_With_Shawl_mixamorig_RightLeg
+    400160: Lady_With_Shawl_mixamorig_RightShoulder
+    400162: Lady_With_Shawl_mixamorig_RightToe_End
+    400164: Lady_With_Shawl_mixamorig_RightToeBase
+    400166: Lady_With_Shawl_mixamorig_RightUpLeg
+    400168: Lady_With_Shawl_mixamorig_Spine
+    400170: Lady_With_Shawl_mixamorig_Spine1
+    400172: Lady_With_Shawl_mixamorig_Spine2
+    400174: Lady_With_Shawl_Shawls
+    400176: Lady_With_Shawl_Shawls1
+    400178: Lady_With_Shawl_Shawls1 1
+    400180: Lady_With_Shawl_Shoes
+    400182: Lady_With_Shawl_Shoes1
+    400184: Lady_With_Shawl_Shoes1 1
+    400186: Lady_With_Shawl_Tops
+    400188: Lady_With_Shawl_Tops1
+    400190: Lady_With_Shawl_Tops1 1
+    400192: U3DMesh
+    2300000: Lady_With_Shawl_Body1
+    2300002: Lady_With_Shawl_default1
+    2300004: Lady_With_Shawl_Eyelashes1
+    3300000: Lady_With_Shawl_Body1
+    3300002: Lady_With_Shawl_default1
+    3300004: Lady_With_Shawl_Eyelashes1
+    4300000: Lady_With_Shawl_Eyelashes1
+    4300002: Lady_With_Shawl_default1
+    4300004: Lady_With_Shawl_Body1
+    4300006: Lady_With_Shawl_Hats1
+    4300008: Lady_With_Shawl_Aprons0
+    4300010: Lady_With_Shawl_Shoes1
+    4300012: Lady_With_Shawl_Shawls1
+    4300014: Lady_With_Shawl_Tops1
+    4300016: Lady_With_Shawl_Aprons1
+    4300018: U3DMesh
+    7400000: Take_001
+    9500000: //RootNode
+    13700000: Lady_With_Shawl_Aprons0
+    13700002: Lady_With_Shawl_Aprons1
+    13700004: Lady_With_Shawl_Body1
+    13700006: Lady_With_Shawl_default1
+    13700008: Lady_With_Shawl_Eyelashes1
+    13700010: Lady_With_Shawl_Hats1
+    13700012: Lady_With_Shawl_Shawls1
+    13700014: Lady_With_Shawl_Shoes1
+    13700016: Lady_With_Shawl_Tops1
+    13700018: U3DMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Lady_With_Shawl_mixamorig_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lady_With_Shawl_mixamorig_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Lady With Shawl(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Aprons0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Aprons1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Body1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_default1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Eyelashes1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Hats1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Lady_With_Shawl
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Aprons
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Aprons0 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Aprons1 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Body
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Body1 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Bottoms
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_default
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_default1 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Eyelashes
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Eyelashes1 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Hats
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Hats1 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Shawls
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Shawls1 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Shoes
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Shoes1 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Tops
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Tops1 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_Hips
+      position: {x: 0.0015125001, y: 0.9490996, z: 0.014907241}
+      rotation: {x: -0.00003708596, y: 0.00012076041, z: -0.004038445, w: 0.99999183}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_Spine
+      position: {x: -0.00016997277, y: 0.099886015, z: 0.0023990404}
+      rotation: {x: -0.015579761, y: -0.00012111566, z: 0.00003131695, w: 0.99987864}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_Spine1
+      position: {x: 0.0000000011920929, y: 0.101847835, z: -0.0000000047683715}
+      rotation: {x: 0.014685113, y: -0.000025247926, z: -0.0017190987, w: 0.9998907}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_Spine2
+      position: {x: -0.0000000011920929, y: 0.09555786, z: 0}
+      rotation: {x: 2.9103827e-11, y: 1.9893691e-22, z: -6.394885e-14, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_Neck
+      position: {x: -0.0016963308, y: 0.17354873, z: -0.015219881}
+      rotation: {x: 0.00093249656, y: 0.00004835809, z: 0.005723713, w: 0.9999832}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_Head
+      position: {x: -0.0013791197, y: 0.09290237, z: 0.008432763}
+      rotation: {x: -5.551115e-17, y: -2.7755576e-17, z: -1.40599e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_HeadTop_End
+      position: {x: 0.0017338829, y: 0.18105148, z: 0.022197733}
+      rotation: {x: -5.551115e-17, y: -2.7755576e-17, z: -1.40599e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftEye
+      position: {x: -0.030691983, y: 0.06165268, z: 0.09568743}
+      rotation: {x: -5.551115e-17, y: -2.7755576e-17, z: -1.40599e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightEye
+      position: {x: 0.029891985, y: 0.061477814, z: 0.09685388}
+      rotation: {x: -5.551115e-17, y: -2.7755576e-17, z: -1.40599e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftShoulder
+      position: {x: -0.04870871, y: 0.117274776, z: -0.01663589}
+      rotation: {x: 0.43889108, y: -0.5289626, z: 0.56929564, w: 0.45108274}
+      scale: {x: 1, y: 1.0000005, z: 0.99999976}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftArm
+      position: {x: -0, y: 0.108331576, z: 0.00000015258789}
+      rotation: {x: -0.005500362, y: 0.0006320916, z: -0.10422503, w: 0.99453837}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftForeArm
+      position: {x: -0.0000000047683715, y: 0.25909498, z: 0}
+      rotation: {x: -0.000000086695266, y: 0.0010529762, z: 0.00000028080294, w: 0.99999946}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHand
+      position: {x: -0, y: 0.2628904, z: 0.00000030517577}
+      rotation: {x: 0.013594738, y: -0.030907748, z: 0.046055183, w: 0.9983681}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandThumb1
+      position: {x: 0.029222697, y: 0.024346465, z: 0.015453949}
+      rotation: {x: 0.06175431, y: 0.00509642, z: -0.35603115, w: 0.9324174}
+      scale: {x: 1.0000002, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandThumb2
+      position: {x: 0.0031984518, y: 0.043506287, z: 0.00000015258789}
+      rotation: {x: -0.000015661013, y: 0.0008891611, z: -0.09124973, w: 0.9958277}
+      scale: {x: 0.9999999, y: 1, z: 1.0000002}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandThumb3
+      position: {x: -0.0034243583, y: 0.031178795, z: 0}
+      rotation: {x: 0.000052704403, y: -0.0010526497, z: 0.059130736, w: 0.9982497}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandThumb4
+      position: {x: 0.00022592544, y: 0.02524668, z: 0}
+      rotation: {x: -0.0000000055879354, y: 4.8597816e-25, z: -0.000000007450581,
+        w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandIndex1
+      position: {x: 0.0312223, y: 0.0883239, z: 0.003639984}
+      rotation: {x: -0.015072836, y: -0.0014173576, z: -0.047908254, w: 0.99873704}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandIndex2
+      position: {x: -0.00016612529, y: 0.035782777, z: 0}
+      rotation: {x: 0.0000073311317, y: 0.00044455074, z: 0.020919718, w: 0.9997811}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandIndex3
+      position: {x: 0.0009154391, y: 0.024582671, z: -0.00000030517577}
+      rotation: {x: -0.0000003871635, y: 0.000028080249, z: -0.034726545, w: 0.99939686}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandIndex4
+      position: {x: -0.000749309, y: 0.023207093, z: -0.00000015258789}
+      rotation: {x: 3.6379797e-12, y: 1.1641532e-10, z: 9.313226e-10, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandMiddle1
+      position: {x: 0.0082850335, y: 0.09050461, z: -0.0027267456}
+      rotation: {x: -0.015070746, y: -0.0013782276, z: -0.04804295, w: 0.99873066}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandMiddle2
+      position: {x: -0.00017002106, y: 0.034643173, z: -0.00000045776366}
+      rotation: {x: 0.00003825444, y: -0.0016144335, z: -0.018698538, w: 0.99982387}
+      scale: {x: 1, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandMiddle3
+      position: {x: -0.0011514854, y: 0.02718994, z: 0}
+      rotation: {x: -0.0000016930817, y: -0.0002735229, z: 0.04771181, w: 0.99886113}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandMiddle4
+      position: {x: 0.0013215106, y: 0.024848174, z: -0.00000015258789}
+      rotation: {x: 1.4551915e-11, y: 2.3283064e-10, z: 0.0000000018626451, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandRing1
+      position: {x: -0.0099115465, y: 0.0844976, z: -0.0021505738}
+      rotation: {x: -0.015025842, y: -0.0016460563, z: -0.07523664, w: 0.9970511}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandRing2
+      position: {x: -0.0017381381, y: 0.029223632, z: 0}
+      rotation: {x: 0.000018743236, y: -0.00076820026, z: 0.035247933, w: 0.9993783}
+      scale: {x: 0.9999998, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandRing3
+      position: {x: 0.000291028, y: 0.026194075, z: 0.00000030517577}
+      rotation: {x: -0.00004146011, y: -0.0011286957, z: 0.025890484, w: 0.9996642}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandRing4
+      position: {x: 0.0014471292, y: 0.022975616, z: 0.00000015258789}
+      rotation: {x: -2.9103834e-11, y: 2.3283064e-10, z: -0.000000005587937, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandPinky1
+      position: {x: -0.029595794, y: 0.073605195, z: 0.003796997}
+      rotation: {x: -0.0151235685, y: -0.0028161013, z: -0.050961267, w: 0.9985821}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandPinky2
+      position: {x: -0.00032093047, y: 0.029740447, z: 0.00000015258789}
+      rotation: {x: 0.0000015785457, y: 0.00023911067, z: 0.015965426, w: 0.99987257}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandPinky3
+      position: {x: 0.00035107613, y: 0.016601944, z: 0.00000015258789}
+      rotation: {x: -0.0000036231509, y: -0.00033550005, z: -0.011519557, w: 0.9999336}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftHandPinky4
+      position: {x: -0.000030126572, y: 0.015785217, z: 0}
+      rotation: {x: 3.16392e-28, y: -4.656613e-10, z: 5.820766e-11, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightShoulder
+      position: {x: 0.04708355, y: 0.11633774, z: -0.01530546}
+      rotation: {x: -0.43021247, y: -0.5412269, z: 0.5579801, w: -0.45896497}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightArm
+      position: {x: -0.0000000047683715, y: 0.109594904, z: 0}
+      rotation: {x: 0.0026158176, y: 0.00031001747, z: 0.105068445, w: 0.99446154}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightForeArm
+      position: {x: -0.0000000023841857, y: 0.2432318, z: 0}
+      rotation: {x: 0.00000037998538, y: -0.0012570238, z: -0.00000014435774, w: 0.9999992}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHand
+      position: {x: -0.0000000023841857, y: 0.2646863, z: -0.00000030517577}
+      rotation: {x: 0.01267535, y: 0.02494433, z: -0.046813123, w: 0.99851173}
+      scale: {x: 1.0000002, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandPinky1
+      position: {x: 0.02922623, y: 0.07520431, z: 0.0033747863}
+      rotation: {x: -0.01400672, y: 0.00462476, z: 0.055719983, w: 0.9983375}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.99999994}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandPinky2
+      position: {x: 0.0005343914, y: 0.028666075, z: 0.00000015258789}
+      rotation: {x: 0.0000019811428, y: 0.00027507226, z: -0.012063761, w: 0.9999272}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandPinky3
+      position: {x: -0.00008628368, y: 0.015630493, z: 0}
+      rotation: {x: -0.0000020325017, y: 0.00011912314, z: -0.010441814, w: 0.9999455}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandPinky4
+      position: {x: -0.000448122, y: 0.016974868, z: 0.00000015258789}
+      rotation: {x: 2.1827876e-11, y: -2.3283064e-10, z: 0.0000000018626451, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandRing1
+      position: {x: 0.008975754, y: 0.086637266, z: -0.0019200133}
+      rotation: {x: -0.013919697, y: 0.0026986569, z: 0.060588498, w: 0.99806213}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandRing2
+      position: {x: 0.00080708024, y: 0.028482514, z: -0.00000015258789}
+      rotation: {x: 0.000004335487, y: 0.0002430216, z: -0.010450193, w: 0.9999454}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandRing3
+      position: {x: 0.0001912117, y: 0.025722427, z: 0}
+      rotation: {x: 0.000004848807, y: -0.00027533429, z: -0.02575562, w: 0.99966824}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandRing4
+      position: {x: -0.0009983003, y: 0.022619324, z: -0.00000015258789}
+      rotation: {x: 1.4551915e-11, y: -1.16415315e-10, z: 0.0000000037252903, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandMiddle1
+      position: {x: -0.008600831, y: 0.092191696, z: -0.0025616453}
+      rotation: {x: -0.013882699, y: 0.0016402665, z: 0.061895575, w: 0.99798477}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandMiddle2
+      position: {x: 0.001039505, y: 0.03359802, z: 0}
+      rotation: {x: 0.00011428766, y: 0.0026997374, z: 0.011391721, w: 0.99993145}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.99999994}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandMiddle3
+      position: {x: 0.0014158916, y: 0.0263443, z: 0}
+      rotation: {x: -0.00003162728, y: 0.0013151661, z: -0.07783195, w: 0.99696565}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandMiddle4
+      position: {x: -0.0024554015, y: 0.02395584, z: 0}
+      rotation: {x: -2.910383e-11, y: -2.3283064e-10, z: 0.0000000018626451, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandIndex1
+      position: {x: -0.029601192, y: 0.089498594, z: 0.00349411}
+      rotation: {x: -0.013873732, y: 0.0007271636, z: 0.046965957, w: 0.9987999}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandIndex2
+      position: {x: 0.000035213827, y: 0.03542999, z: 0}
+      rotation: {x: 0.0000008478164, y: -0.00016295738, z: -0.0085584605, w: 0.9999634}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandIndex3
+      position: {x: -0.00041508256, y: 0.025727157, z: 0.00000045776366}
+      rotation: {x: 0.00000016934283, y: 0.0000005816329, z: 0.01660552, w: 0.99986213}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandIndex4
+      position: {x: 0.00037986753, y: 0.022241822, z: 0}
+      rotation: {x: 9.0949465e-13, y: -1.1641532e-10, z: -4.6566123e-10, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandThumb1
+      position: {x: -0.027644323, y: 0.024109496, z: 0.015489044}
+      rotation: {x: 0.06878835, y: -0.018395837, z: 0.36576653, w: 0.92797875}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandThumb2
+      position: {x: -0.0022455023, y: 0.043062348, z: 0.00000015258789}
+      rotation: {x: -0.000000083470596, y: -0.000046362366, z: 0.057000954, w: 0.99837416}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999999}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandThumb3
+      position: {x: 0.0020750237, y: 0.033449795, z: 0.00000015258789}
+      rotation: {x: -0.000057374255, y: -0.0016499904, z: -0.027411733, w: 0.9996229}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightHandThumb4
+      position: {x: 0.00017053603, y: 0.024006156, z: 0}
+      rotation: {x: -0.000000022351747, y: -0.0000000074505815, z: -2.7755582e-17,
+        w: 1}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999999}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftUpLeg
+      position: {x: -0.08900746, y: -0.06715286, z: -0.015732305}
+      rotation: {x: -0.00023001117, y: 0.045908436, z: 0.998935, w: -0.004611542}
+      scale: {x: 1, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftLeg
+      position: {x: 0.000000019073486, y: 0.40732765, z: -0.0000000047683715}
+      rotation: {x: -0.12604685, y: -0.00002094087, z: -0.0011869657, w: 0.9920236}
+      scale: {x: 0.9999998, y: 0.99999964, z: 0.99999994}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftFoot
+      position: {x: 0.000000019073486, y: 0.38580897, z: 0.000000021457671}
+      rotation: {x: 0.54849553, y: 0.007968492, z: -0.012989755, w: 0.8360146}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftToeBase
+      position: {x: 0.000000009536743, y: 0.12665951, z: -0.0000000047683715}
+      rotation: {x: 0.28243992, y: 0.078526326, z: -0.023204967, w: 0.9557839}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_LeftToe_End
+      position: {x: -0.000000009536743, y: 0.09408954, z: 5.9604643e-10}
+      rotation: {x: 2.3283059e-10, y: -2.9103825e-10, z: -0.0000000018626447, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightUpLeg
+      position: {x: 0.087070994, y: -0.06628258, z: -0.017322762}
+      rotation: {x: -0.00030908402, y: 0.009593948, z: 0.99995357, w: 0.0008585451}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightLeg
+      position: {x: -0.0000000047683715, y: 0.40655142, z: 0.0000000011920929}
+      rotation: {x: -0.049810674, y: -0.00043943463, z: 0.010143579, w: 0.9987071}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightFoot
+      position: {x: -0.000000009536743, y: 0.3796758, z: -0.0000000023841857}
+      rotation: {x: 0.4940141, y: -0.020022098, z: 0.0136075625, w: 0.8691168}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightToeBase
+      position: {x: -0, y: 0.12745361, z: 0.0000000047683715}
+      rotation: {x: 0.3026604, y: -0.08047225, z: 0.02565524, w: 0.94934857}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999999}
+      transformModified: 1
+    - name: Lady_With_Shawl_mixamorig_RightToe_End
+      position: {x: 0.000000009536743, y: 0.095522165, z: 5.9604643e-10}
+      rotation: {x: -2.3283064e-10, y: -0.0000000018626451, z: 0.0000000037252903,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Shawls1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Shoes1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lady_With_Shawl_Tops1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

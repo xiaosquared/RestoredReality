@@ -1,0 +1,915 @@
+fileFormatVersion: 2
+guid: 97ab953d6ee5dba43913ed7597059fb9
+timeCreated: 1486383446
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _1800s_Cook_mixamorig_NS_
+    100002: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips
+    100004: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_Head
+    100006: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftArm
+    100008: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftFoot
+    100010: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftForeArm
+    100012: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHand
+    100014: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandIndex1
+    100016: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandIndex2
+    100018: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandIndex3
+    100020: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandMiddle1
+    100022: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandMiddle2
+    100024: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandMiddle3
+    100026: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandPinky1
+    100028: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandPinky2
+    100030: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandPinky3
+    100032: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandRing1
+    100034: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandRing2
+    100036: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandRing3
+    100038: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandThumb1
+    100040: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandThumb2
+    100042: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandThumb3
+    100044: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftLeg
+    100046: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftShoulder
+    100048: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftToeBase
+    100050: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftUpLeg
+    100052: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_Neck
+    100054: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightArm
+    100056: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightFoot
+    100058: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightForeArm
+    100060: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHand
+    100062: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandIndex1
+    100064: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandIndex2
+    100066: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandIndex3
+    100068: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandMiddle1
+    100070: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandMiddle2
+    100072: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandMiddle3
+    100074: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandPinky1
+    100076: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandPinky2
+    100078: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandPinky3
+    100080: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandRing1
+    100082: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandRing2
+    100084: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandRing3
+    100086: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandThumb1
+    100088: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandThumb2
+    100090: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandThumb3
+    100092: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightLeg
+    100094: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightShoulder
+    100096: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightToeBase
+    100098: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightUpLeg
+    100100: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_Spine
+    100102: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_Spine1
+    100104: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_Spine2
+    100106: Apronmat
+    100108: Bodymat
+    100110: cameras_0
+    100112: //RootNode
+    100114: Hatmat
+    100116: Shoesmat
+    100118: Topmat
+    100120: U3DMesh
+    400000: _1800s_Cook_mixamorig_NS_
+    400002: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips
+    400004: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_Head
+    400006: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftArm
+    400008: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftFoot
+    400010: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftForeArm
+    400012: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHand
+    400014: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandIndex1
+    400016: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandIndex2
+    400018: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandIndex3
+    400020: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandMiddle1
+    400022: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandMiddle2
+    400024: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandMiddle3
+    400026: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandPinky1
+    400028: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandPinky2
+    400030: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandPinky3
+    400032: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandRing1
+    400034: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandRing2
+    400036: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandRing3
+    400038: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandThumb1
+    400040: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandThumb2
+    400042: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandThumb3
+    400044: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftLeg
+    400046: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftShoulder
+    400048: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftToeBase
+    400050: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftUpLeg
+    400052: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_Neck
+    400054: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightArm
+    400056: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightFoot
+    400058: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightForeArm
+    400060: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHand
+    400062: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandIndex1
+    400064: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandIndex2
+    400066: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandIndex3
+    400068: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandMiddle1
+    400070: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandMiddle2
+    400072: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandMiddle3
+    400074: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandPinky1
+    400076: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandPinky2
+    400078: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandPinky3
+    400080: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandRing1
+    400082: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandRing2
+    400084: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandRing3
+    400086: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandThumb1
+    400088: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandThumb2
+    400090: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandThumb3
+    400092: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightLeg
+    400094: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightShoulder
+    400096: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightToeBase
+    400098: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightUpLeg
+    400100: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_Spine
+    400102: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_Spine1
+    400104: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_Spine2
+    400106: Apronmat
+    400108: Bodymat
+    400110: cameras_0
+    400112: //RootNode
+    400114: Hatmat
+    400116: Shoesmat
+    400118: Topmat
+    400120: U3DMesh
+    4300000: Bodymat
+    4300002: Hatmat
+    4300004: Topmat
+    4300006: Shoesmat
+    4300008: Apronmat
+    4300010: U3DMesh
+    7400000: DefaultAnim
+    9500000: //RootNode
+    13700000: Apronmat
+    13700002: Bodymat
+    13700004: Hatmat
+    13700006: Shoesmat
+    13700008: Topmat
+    13700010: U3DMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Cook_Smoothed_V2(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS_
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips
+      position: {x: 0.00151212, y: 0.9366363, z: 0.0153825795}
+      rotation: {x: -0.000037105678, y: 0.00012323151, z: -0.004039113, w: 0.99999183}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_Spine
+      position: {x: -0.00017162, y: 0.099885575, z: 0.00239461}
+      rotation: {x: -0.015663248, y: -0.00012401193, z: 0.00005792948, w: 0.99987733}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_Spine1
+      position: {x: -0, y: 0.1018439, z: 0}
+      rotation: {x: 0.014373319, y: -0.000023436032, z: -0.0016303527, w: 0.9998954}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_Spine2
+      position: {x: -0, y: 0.095534034, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_Neck
+      position: {x: -0.00144135, y: 0.17341538, z: -0.0150829}
+      rotation: {x: 0.0013278226, y: 0.00004375135, z: 0.005609005, w: 0.99998343}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_Head
+      position: {x: -0.00125615, y: 0.09311765, z: 0.00880597}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftShoulder
+      position: {x: -0.048697848, y: 0.11701339, z: -0.01666842}
+      rotation: {x: 0.43858802, y: -0.52874374, z: 0.5685951, w: 0.45251542}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftArm
+      position: {x: -0, y: 0.108271815, z: 0}
+      rotation: {x: -0.0044812355, y: 0.000533799, z: -0.10316772, w: 0.99465376}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftForeArm
+      position: {x: -0, y: 0.25904745, z: 0}
+      rotation: {x: 0.0000002182916, y: 0.0010277545, z: -0.00000012239721, w: 0.99999946}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHand
+      position: {x: -0, y: 0.26289868, z: 0}
+      rotation: {x: 0.013554242, y: -0.031787522, z: 0.046066992, w: 0.9983405}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandThumb1
+      position: {x: 0.02922267, y: 0.02434632, z: 0.01545416}
+      rotation: {x: 0.06175635, y: 0.005095392, z: -0.3560311, w: 0.9324174}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandThumb2
+      position: {x: 0.00319846, y: 0.04350632, z: 0}
+      rotation: {x: -0.000016337957, y: 0.00088907866, z: -0.09124974, w: 0.9958277}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandThumb3
+      position: {x: -0.00342438, y: 0.03117891, z: 0}
+      rotation: {x: 0.00005274572, y: -0.0010526488, z: 0.059130814, w: 0.9982497}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandIndex1
+      position: {x: 0.0312223, y: 0.08832393, z: 0.00364015}
+      rotation: {x: -0.015073662, y: -0.0014172915, z: -0.047908332, w: 0.998737}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandIndex2
+      position: {x: -0.00016612001, y: 0.03578269, z: 0}
+      rotation: {x: 0.000007405917, y: 0.00044448223, z: 0.020919858, w: 0.9997811}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandIndex3
+      position: {x: 0.00091544, y: 0.02458282, z: 0}
+      rotation: {x: -0.00000042021335, y: 0.000028113898, z: -0.034726728, w: 0.99939686}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandMiddle1
+      position: {x: 0.008285049, y: 0.090504594, z: -0.00272653}
+      rotation: {x: -0.01507158, y: -0.0013782076, z: -0.04804296, w: 0.9987306}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandMiddle2
+      position: {x: -0.00017002999, y: 0.03464312, z: 0}
+      rotation: {x: 0.000038104456, y: -0.0016144551, z: -0.018698514, w: 0.99982387}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandMiddle3
+      position: {x: -0.00115148, y: 0.02718982, z: 0}
+      rotation: {x: -0.0000016027776, y: -0.00027354073, z: 0.047711663, w: 0.99886113}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandRing1
+      position: {x: -0.00991154, y: 0.08449755, z: -0.00215031}
+      rotation: {x: -0.015026078, y: -0.0016460934, z: -0.07523672, w: 0.9970511}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandRing2
+      position: {x: -0.0017381599, y: 0.02922363, z: 0}
+      rotation: {x: 0.000018841469, y: -0.0007681682, z: 0.035248034, w: 0.9993783}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandRing3
+      position: {x: 0.00029102, y: 0.026194109, z: 0}
+      rotation: {x: -0.000041477193, y: -0.0011286994, z: 0.025890332, w: 0.9996642}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandPinky1
+      position: {x: -0.029595798, y: 0.07360515, z: 0.00379711}
+      rotation: {x: -0.015123109, y: -0.002816055, z: -0.050961304, w: 0.9985822}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandPinky2
+      position: {x: -0.00032092998, y: 0.02974047, z: 0}
+      rotation: {x: 0.0000016456863, y: 0.00023910587, z: 0.015965339, w: 0.99987257}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftHandPinky3
+      position: {x: 0.00035107002, y: 0.01660194, z: 0}
+      rotation: {x: -0.000003585402, y: -0.0003354682, z: -0.01151947, w: 0.9999336}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightShoulder
+      position: {x: 0.047105458, y: 0.116217755, z: -0.01548131}
+      rotation: {x: -0.4302544, y: -0.5400822, z: 0.5578454, w: -0.46043554}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightArm
+      position: {x: -0, y: 0.109552674, z: 0}
+      rotation: {x: 0.0030389326, y: 0.00029629294, z: 0.10367268, w: 0.9946068}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightForeArm
+      position: {x: -0, y: 0.243239, z: 0}
+      rotation: {x: -0.00000018273857, y: -0.0012435119, z: 0.00000041865087, w: 0.9999992}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHand
+      position: {x: -0, y: 0.2646875, z: 0}
+      rotation: {x: 0.012598899, y: 0.026581982, z: -0.046834625, w: 0.9984695}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandPinky1
+      position: {x: 0.029226178, y: 0.07520439, z: 0.003375}
+      rotation: {x: -0.014007266, y: 0.004624709, z: 0.055719808, w: 0.9983375}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandPinky2
+      position: {x: 0.0005344, y: 0.028666118, z: 0}
+      rotation: {x: 0.000002175943, y: 0.00027511886, z: -0.01206379, w: 0.9999272}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandPinky3
+      position: {x: -0.00008627999, y: 0.01563063, z: 0}
+      rotation: {x: -0.0000023078496, y: 0.00011914063, z: -0.010441629, w: 0.9999455}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandRing1
+      position: {x: 0.00897578, y: 0.08663743, z: -0.00191989}
+      rotation: {x: -0.013919559, y: 0.0026986997, z: 0.060588695, w: 0.99806213}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandRing2
+      position: {x: 0.00080704, y: 0.02848251, z: 0}
+      rotation: {x: 0.0000040574896, y: 0.00024295568, z: -0.010449772, w: 0.9999454}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandRing3
+      position: {x: 0.00019123999, y: 0.02572256, z: 0}
+      rotation: {x: 0.0000046481173, y: -0.0002753099, z: -0.025755566, w: 0.99966824}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandMiddle1
+      position: {x: -0.00860078, y: 0.09219181, z: -0.00256138}
+      rotation: {x: -0.013883308, y: 0.0016402756, z: 0.06189532, w: 0.99798477}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandMiddle2
+      position: {x: 0.00103946, y: 0.033598147, z: 0}
+      rotation: {x: 0.00011461092, y: 0.0026997307, z: 0.011391723, w: 0.99993145}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandMiddle3
+      position: {x: 0.00141592, y: 0.02634419, z: 0}
+      rotation: {x: -0.000031740772, y: 0.0013151601, z: -0.077831954, w: 0.99696565}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandIndex1
+      position: {x: -0.029601179, y: 0.08949884, z: 0.00349425}
+      rotation: {x: -0.013873346, y: 0.0007271256, z: 0.046965554, w: 0.9987999}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandIndex2
+      position: {x: 0.0000352, y: 0.0354301, z: 0}
+      rotation: {x: 0.0000011974531, y: -0.00016292534, z: -0.008558556, w: 0.9999634}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandIndex3
+      position: {x: -0.00041506, y: 0.025727259, z: 0}
+      rotation: {x: -0.000000053481124, y: 0.00000059260566, z: 0.016605498, w: 0.99986213}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandThumb1
+      position: {x: -0.02764432, y: 0.02410952, z: 0.01548892}
+      rotation: {x: 0.06878862, y: -0.018395718, z: 0.36576608, w: 0.92797893}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandThumb2
+      position: {x: -0.00224556, y: 0.043062583, z: 0}
+      rotation: {x: -0.00000003689769, y: -0.000046354882, z: 0.057000317, w: 0.99837416}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightHandThumb3
+      position: {x: 0.00207502, y: 0.03344977, z: 0}
+      rotation: {x: -0.000056962454, y: -0.0016500171, z: -0.027411764, w: 0.9996229}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftUpLeg
+      position: {x: -0.08900669, y: -0.06715245, z: -0.01573026}
+      rotation: {x: -0.00023020428, y: 0.04558913, z: 0.9989496, w: -0.0046122056}
+      scale: {x: 0.99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftLeg
+      position: {x: -0, y: 0.40732887, z: 0}
+      rotation: {x: -0.1260152, y: -0.000019293537, z: -0.0011883259, w: 0.99202764}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftFoot
+      position: {x: -0, y: 0.38580897, z: 0}
+      rotation: {x: 0.5487363, y: 0.007972738, z: -0.012986086, w: 0.8358566}
+      scale: {x: 1.0000001, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_LeftToeBase
+      position: {x: -0, y: 0.12665957, z: 0}
+      rotation: {x: 0.28243956, y: 0.078526035, z: -0.023204885, w: 0.955784}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightUpLeg
+      position: {x: 0.08707184, y: -0.066283636, z: -0.01732117}
+      rotation: {x: -0.00030768797, y: 0.009295166, z: 0.9999564, w: 0.00085723895}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightLeg
+      position: {x: -0, y: 0.4065513, z: 0}
+      rotation: {x: -0.049820155, y: -0.0004414436, z: 0.01014269, w: 0.99870664}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightFoot
+      position: {x: -0, y: 0.37967578, z: 0}
+      rotation: {x: 0.49428225, y: -0.020026254, z: 0.013601657, w: 0.8689643}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1800s_Cook_mixamorig_NS__mixamorig_NS_Hips_RightToeBase
+      position: {x: -0, y: 0.12745368, z: 0}
+      rotation: {x: 0.3026601, y: -0.0804725, z: 0.025655285, w: 0.9493486}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: Apronmat
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bodymat
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: cameras_0
+      position: {x: -1.4446504, y: 2.2154782, z: 1.1697195}
+      rotation: {x: -0.28839484, y: -0.28882593, z: -0.09170587, w: 0.9082941}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: Hatmat
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Shoesmat
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Topmat
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

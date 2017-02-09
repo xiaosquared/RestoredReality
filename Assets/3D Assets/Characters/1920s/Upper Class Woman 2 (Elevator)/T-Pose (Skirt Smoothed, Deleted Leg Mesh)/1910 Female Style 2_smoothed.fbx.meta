@@ -1,0 +1,1412 @@
+fileFormatVersion: 2
+guid: fe8b2af05bdf34b47825556009201831
+timeCreated: 1486538802
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: _1910s_Upper_Class_Woman_2__1910s_Upper_Class_Woman_2
+    100004: _1910s_Upper_Class_Woman_2_Body
+    100006: _1910s_Upper_Class_Woman_2_Body1
+    100008: _1910s_Upper_Class_Woman_2_Body1 1
+    100010: _1910s_Upper_Class_Woman_2_Body1_end
+    100012: _1910s_Upper_Class_Woman_2_Body_end
+    100014: _1910s_Upper_Class_Woman_2_default
+    100016: _1910s_Upper_Class_Woman_2_default1
+    100018: _1910s_Upper_Class_Woman_2_default1 1
+    100020: _1910s_Upper_Class_Woman_2_default1_end
+    100022: _1910s_Upper_Class_Woman_2_default_end
+    100024: _1910s_Upper_Class_Woman_2_DRESSES
+    100026: _1910s_Upper_Class_Woman_2_DRESSES1
+    100028: _1910s_Upper_Class_Woman_2_DRESSES1 1
+    100030: _1910s_Upper_Class_Woman_2_DRESSES1_end
+    100032: _1910s_Upper_Class_Woman_2_DRESSES_end
+    100034: _1910s_Upper_Class_Woman_2_Eyelashes
+    100036: _1910s_Upper_Class_Woman_2_Eyelashes1
+    100038: _1910s_Upper_Class_Woman_2_Eyelashes1 1
+    100040: _1910s_Upper_Class_Woman_2_Eyelashes1_end
+    100042: _1910s_Upper_Class_Woman_2_Eyelashes_end
+    100044: _1910s_Upper_Class_Woman_2_Gloves
+    100046: _1910s_Upper_Class_Woman_2_Gloves1
+    100048: _1910s_Upper_Class_Woman_2_Gloves1 1
+    100050: _1910s_Upper_Class_Woman_2_Gloves1_end
+    100052: _1910s_Upper_Class_Woman_2_Gloves_end
+    100054: _1910s_Upper_Class_Woman_2_Hair
+    100056: _1910s_Upper_Class_Woman_2_Hair1
+    100058: _1910s_Upper_Class_Woman_2_Hair1 1
+    100060: _1910s_Upper_Class_Woman_2_Hair1_end
+    100062: _1910s_Upper_Class_Woman_2_Hair_end
+    100064: _1910s_Upper_Class_Woman_2_Hats
+    100066: _1910s_Upper_Class_Woman_2_Hats1
+    100068: _1910s_Upper_Class_Woman_2_Hats1 1
+    100070: _1910s_Upper_Class_Woman_2_Hats1_end
+    100072: _1910s_Upper_Class_Woman_2_Hats_end
+    100074: _1910s_Upper_Class_Woman_2_mixamorig_Head
+    100076: _1910s_Upper_Class_Woman_2_mixamorig_HeadTop_End
+    100078: _1910s_Upper_Class_Woman_2_mixamorig_HeadTop_End_end
+    100080: _1910s_Upper_Class_Woman_2_mixamorig_Hips
+    100082: _1910s_Upper_Class_Woman_2_mixamorig_LeftArm
+    100084: _1910s_Upper_Class_Woman_2_mixamorig_LeftEye
+    100086: _1910s_Upper_Class_Woman_2_mixamorig_LeftEye_end
+    100088: _1910s_Upper_Class_Woman_2_mixamorig_LeftFoot
+    100090: _1910s_Upper_Class_Woman_2_mixamorig_LeftForeArm
+    100092: _1910s_Upper_Class_Woman_2_mixamorig_LeftHand
+    100094: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandIndex1
+    100096: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandIndex2
+    100098: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandIndex3
+    100100: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandIndex4
+    100102: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandIndex4_end
+    100104: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandMiddle1
+    100106: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandMiddle2
+    100108: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandMiddle3
+    100110: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandMiddle4
+    100112: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandMiddle4_end
+    100114: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandPinky1
+    100116: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandPinky2
+    100118: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandPinky3
+    100120: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandPinky4
+    100122: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandPinky4_end
+    100124: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandRing1
+    100126: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandRing2
+    100128: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandRing3
+    100130: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandRing4
+    100132: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandRing4_end
+    100134: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandThumb1
+    100136: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandThumb2
+    100138: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandThumb3
+    100140: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandThumb4
+    100142: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandThumb4_end
+    100144: _1910s_Upper_Class_Woman_2_mixamorig_LeftLeg
+    100146: _1910s_Upper_Class_Woman_2_mixamorig_LeftShoulder
+    100148: _1910s_Upper_Class_Woman_2_mixamorig_LeftToe_End
+    100150: _1910s_Upper_Class_Woman_2_mixamorig_LeftToe_End_end
+    100152: _1910s_Upper_Class_Woman_2_mixamorig_LeftToeBase
+    100154: _1910s_Upper_Class_Woman_2_mixamorig_LeftUpLeg
+    100156: _1910s_Upper_Class_Woman_2_mixamorig_Neck
+    100158: _1910s_Upper_Class_Woman_2_mixamorig_RightArm
+    100160: _1910s_Upper_Class_Woman_2_mixamorig_RightEye
+    100162: _1910s_Upper_Class_Woman_2_mixamorig_RightEye_end
+    100164: _1910s_Upper_Class_Woman_2_mixamorig_RightFoot
+    100166: _1910s_Upper_Class_Woman_2_mixamorig_RightForeArm
+    100168: _1910s_Upper_Class_Woman_2_mixamorig_RightHand
+    100170: _1910s_Upper_Class_Woman_2_mixamorig_RightHandIndex1
+    100172: _1910s_Upper_Class_Woman_2_mixamorig_RightHandIndex2
+    100174: _1910s_Upper_Class_Woman_2_mixamorig_RightHandIndex3
+    100176: _1910s_Upper_Class_Woman_2_mixamorig_RightHandIndex4
+    100178: _1910s_Upper_Class_Woman_2_mixamorig_RightHandIndex4_end
+    100180: _1910s_Upper_Class_Woman_2_mixamorig_RightHandMiddle1
+    100182: _1910s_Upper_Class_Woman_2_mixamorig_RightHandMiddle2
+    100184: _1910s_Upper_Class_Woman_2_mixamorig_RightHandMiddle3
+    100186: _1910s_Upper_Class_Woman_2_mixamorig_RightHandMiddle4
+    100188: _1910s_Upper_Class_Woman_2_mixamorig_RightHandMiddle4_end
+    100190: _1910s_Upper_Class_Woman_2_mixamorig_RightHandPinky1
+    100192: _1910s_Upper_Class_Woman_2_mixamorig_RightHandPinky2
+    100194: _1910s_Upper_Class_Woman_2_mixamorig_RightHandPinky3
+    100196: _1910s_Upper_Class_Woman_2_mixamorig_RightHandPinky4
+    100198: _1910s_Upper_Class_Woman_2_mixamorig_RightHandPinky4_end
+    100200: _1910s_Upper_Class_Woman_2_mixamorig_RightHandRing1
+    100202: _1910s_Upper_Class_Woman_2_mixamorig_RightHandRing2
+    100204: _1910s_Upper_Class_Woman_2_mixamorig_RightHandRing3
+    100206: _1910s_Upper_Class_Woman_2_mixamorig_RightHandRing4
+    100208: _1910s_Upper_Class_Woman_2_mixamorig_RightHandRing4_end
+    100210: _1910s_Upper_Class_Woman_2_mixamorig_RightHandThumb1
+    100212: _1910s_Upper_Class_Woman_2_mixamorig_RightHandThumb2
+    100214: _1910s_Upper_Class_Woman_2_mixamorig_RightHandThumb3
+    100216: _1910s_Upper_Class_Woman_2_mixamorig_RightHandThumb4
+    100218: _1910s_Upper_Class_Woman_2_mixamorig_RightHandThumb4_end
+    100220: _1910s_Upper_Class_Woman_2_mixamorig_RightLeg
+    100222: _1910s_Upper_Class_Woman_2_mixamorig_RightShoulder
+    100224: _1910s_Upper_Class_Woman_2_mixamorig_RightToe_End
+    100226: _1910s_Upper_Class_Woman_2_mixamorig_RightToe_End_end
+    100228: _1910s_Upper_Class_Woman_2_mixamorig_RightToeBase
+    100230: _1910s_Upper_Class_Woman_2_mixamorig_RightUpLeg
+    100232: _1910s_Upper_Class_Woman_2_mixamorig_Spine
+    100234: _1910s_Upper_Class_Woman_2_mixamorig_Spine1
+    100236: _1910s_Upper_Class_Woman_2_mixamorig_Spine2
+    100238: _1910s_Upper_Class_Woman_2_Pendants
+    100240: _1910s_Upper_Class_Woman_2_Pendants1
+    100242: _1910s_Upper_Class_Woman_2_Pendants1 1
+    100244: _1910s_Upper_Class_Woman_2_Pendants1_end
+    100246: _1910s_Upper_Class_Woman_2_Pendants_end
+    100248: _1910s_Upper_Class_Woman_2_Shoes
+    100250: _1910s_Upper_Class_Woman_2_Shoes1
+    100252: _1910s_Upper_Class_Woman_2_Shoes1 1
+    100254: _1910s_Upper_Class_Woman_2_Shoes1_end
+    100256: _1910s_Upper_Class_Woman_2_Shoes_end
+    100258: Armature
+    400000: //RootNode
+    400002: _1910s_Upper_Class_Woman_2__1910s_Upper_Class_Woman_2
+    400004: _1910s_Upper_Class_Woman_2_Body
+    400006: _1910s_Upper_Class_Woman_2_Body1
+    400008: _1910s_Upper_Class_Woman_2_Body1 1
+    400010: _1910s_Upper_Class_Woman_2_Body1_end
+    400012: _1910s_Upper_Class_Woman_2_Body_end
+    400014: _1910s_Upper_Class_Woman_2_default
+    400016: _1910s_Upper_Class_Woman_2_default1
+    400018: _1910s_Upper_Class_Woman_2_default1 1
+    400020: _1910s_Upper_Class_Woman_2_default1_end
+    400022: _1910s_Upper_Class_Woman_2_default_end
+    400024: _1910s_Upper_Class_Woman_2_DRESSES
+    400026: _1910s_Upper_Class_Woman_2_DRESSES1
+    400028: _1910s_Upper_Class_Woman_2_DRESSES1 1
+    400030: _1910s_Upper_Class_Woman_2_DRESSES1_end
+    400032: _1910s_Upper_Class_Woman_2_DRESSES_end
+    400034: _1910s_Upper_Class_Woman_2_Eyelashes
+    400036: _1910s_Upper_Class_Woman_2_Eyelashes1
+    400038: _1910s_Upper_Class_Woman_2_Eyelashes1 1
+    400040: _1910s_Upper_Class_Woman_2_Eyelashes1_end
+    400042: _1910s_Upper_Class_Woman_2_Eyelashes_end
+    400044: _1910s_Upper_Class_Woman_2_Gloves
+    400046: _1910s_Upper_Class_Woman_2_Gloves1
+    400048: _1910s_Upper_Class_Woman_2_Gloves1 1
+    400050: _1910s_Upper_Class_Woman_2_Gloves1_end
+    400052: _1910s_Upper_Class_Woman_2_Gloves_end
+    400054: _1910s_Upper_Class_Woman_2_Hair
+    400056: _1910s_Upper_Class_Woman_2_Hair1
+    400058: _1910s_Upper_Class_Woman_2_Hair1 1
+    400060: _1910s_Upper_Class_Woman_2_Hair1_end
+    400062: _1910s_Upper_Class_Woman_2_Hair_end
+    400064: _1910s_Upper_Class_Woman_2_Hats
+    400066: _1910s_Upper_Class_Woman_2_Hats1
+    400068: _1910s_Upper_Class_Woman_2_Hats1 1
+    400070: _1910s_Upper_Class_Woman_2_Hats1_end
+    400072: _1910s_Upper_Class_Woman_2_Hats_end
+    400074: _1910s_Upper_Class_Woman_2_mixamorig_Head
+    400076: _1910s_Upper_Class_Woman_2_mixamorig_HeadTop_End
+    400078: _1910s_Upper_Class_Woman_2_mixamorig_HeadTop_End_end
+    400080: _1910s_Upper_Class_Woman_2_mixamorig_Hips
+    400082: _1910s_Upper_Class_Woman_2_mixamorig_LeftArm
+    400084: _1910s_Upper_Class_Woman_2_mixamorig_LeftEye
+    400086: _1910s_Upper_Class_Woman_2_mixamorig_LeftEye_end
+    400088: _1910s_Upper_Class_Woman_2_mixamorig_LeftFoot
+    400090: _1910s_Upper_Class_Woman_2_mixamorig_LeftForeArm
+    400092: _1910s_Upper_Class_Woman_2_mixamorig_LeftHand
+    400094: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandIndex1
+    400096: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandIndex2
+    400098: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandIndex3
+    400100: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandIndex4
+    400102: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandIndex4_end
+    400104: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandMiddle1
+    400106: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandMiddle2
+    400108: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandMiddle3
+    400110: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandMiddle4
+    400112: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandMiddle4_end
+    400114: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandPinky1
+    400116: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandPinky2
+    400118: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandPinky3
+    400120: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandPinky4
+    400122: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandPinky4_end
+    400124: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandRing1
+    400126: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandRing2
+    400128: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandRing3
+    400130: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandRing4
+    400132: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandRing4_end
+    400134: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandThumb1
+    400136: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandThumb2
+    400138: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandThumb3
+    400140: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandThumb4
+    400142: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandThumb4_end
+    400144: _1910s_Upper_Class_Woman_2_mixamorig_LeftLeg
+    400146: _1910s_Upper_Class_Woman_2_mixamorig_LeftShoulder
+    400148: _1910s_Upper_Class_Woman_2_mixamorig_LeftToe_End
+    400150: _1910s_Upper_Class_Woman_2_mixamorig_LeftToe_End_end
+    400152: _1910s_Upper_Class_Woman_2_mixamorig_LeftToeBase
+    400154: _1910s_Upper_Class_Woman_2_mixamorig_LeftUpLeg
+    400156: _1910s_Upper_Class_Woman_2_mixamorig_Neck
+    400158: _1910s_Upper_Class_Woman_2_mixamorig_RightArm
+    400160: _1910s_Upper_Class_Woman_2_mixamorig_RightEye
+    400162: _1910s_Upper_Class_Woman_2_mixamorig_RightEye_end
+    400164: _1910s_Upper_Class_Woman_2_mixamorig_RightFoot
+    400166: _1910s_Upper_Class_Woman_2_mixamorig_RightForeArm
+    400168: _1910s_Upper_Class_Woman_2_mixamorig_RightHand
+    400170: _1910s_Upper_Class_Woman_2_mixamorig_RightHandIndex1
+    400172: _1910s_Upper_Class_Woman_2_mixamorig_RightHandIndex2
+    400174: _1910s_Upper_Class_Woman_2_mixamorig_RightHandIndex3
+    400176: _1910s_Upper_Class_Woman_2_mixamorig_RightHandIndex4
+    400178: _1910s_Upper_Class_Woman_2_mixamorig_RightHandIndex4_end
+    400180: _1910s_Upper_Class_Woman_2_mixamorig_RightHandMiddle1
+    400182: _1910s_Upper_Class_Woman_2_mixamorig_RightHandMiddle2
+    400184: _1910s_Upper_Class_Woman_2_mixamorig_RightHandMiddle3
+    400186: _1910s_Upper_Class_Woman_2_mixamorig_RightHandMiddle4
+    400188: _1910s_Upper_Class_Woman_2_mixamorig_RightHandMiddle4_end
+    400190: _1910s_Upper_Class_Woman_2_mixamorig_RightHandPinky1
+    400192: _1910s_Upper_Class_Woman_2_mixamorig_RightHandPinky2
+    400194: _1910s_Upper_Class_Woman_2_mixamorig_RightHandPinky3
+    400196: _1910s_Upper_Class_Woman_2_mixamorig_RightHandPinky4
+    400198: _1910s_Upper_Class_Woman_2_mixamorig_RightHandPinky4_end
+    400200: _1910s_Upper_Class_Woman_2_mixamorig_RightHandRing1
+    400202: _1910s_Upper_Class_Woman_2_mixamorig_RightHandRing2
+    400204: _1910s_Upper_Class_Woman_2_mixamorig_RightHandRing3
+    400206: _1910s_Upper_Class_Woman_2_mixamorig_RightHandRing4
+    400208: _1910s_Upper_Class_Woman_2_mixamorig_RightHandRing4_end
+    400210: _1910s_Upper_Class_Woman_2_mixamorig_RightHandThumb1
+    400212: _1910s_Upper_Class_Woman_2_mixamorig_RightHandThumb2
+    400214: _1910s_Upper_Class_Woman_2_mixamorig_RightHandThumb3
+    400216: _1910s_Upper_Class_Woman_2_mixamorig_RightHandThumb4
+    400218: _1910s_Upper_Class_Woman_2_mixamorig_RightHandThumb4_end
+    400220: _1910s_Upper_Class_Woman_2_mixamorig_RightLeg
+    400222: _1910s_Upper_Class_Woman_2_mixamorig_RightShoulder
+    400224: _1910s_Upper_Class_Woman_2_mixamorig_RightToe_End
+    400226: _1910s_Upper_Class_Woman_2_mixamorig_RightToe_End_end
+    400228: _1910s_Upper_Class_Woman_2_mixamorig_RightToeBase
+    400230: _1910s_Upper_Class_Woman_2_mixamorig_RightUpLeg
+    400232: _1910s_Upper_Class_Woman_2_mixamorig_Spine
+    400234: _1910s_Upper_Class_Woman_2_mixamorig_Spine1
+    400236: _1910s_Upper_Class_Woman_2_mixamorig_Spine2
+    400238: _1910s_Upper_Class_Woman_2_Pendants
+    400240: _1910s_Upper_Class_Woman_2_Pendants1
+    400242: _1910s_Upper_Class_Woman_2_Pendants1 1
+    400244: _1910s_Upper_Class_Woman_2_Pendants1_end
+    400246: _1910s_Upper_Class_Woman_2_Pendants_end
+    400248: _1910s_Upper_Class_Woman_2_Shoes
+    400250: _1910s_Upper_Class_Woman_2_Shoes1
+    400252: _1910s_Upper_Class_Woman_2_Shoes1 1
+    400254: _1910s_Upper_Class_Woman_2_Shoes1_end
+    400256: _1910s_Upper_Class_Woman_2_Shoes_end
+    400258: Armature
+    4300000: _1910s_Upper_Class_Woman_2_Shoes1
+    4300002: _1910s_Upper_Class_Woman_2_Gloves1
+    4300004: _1910s_Upper_Class_Woman_2_Hats1
+    4300006: _1910s_Upper_Class_Woman_2_default1
+    4300008: _1910s_Upper_Class_Woman_2_DRESSES1
+    4300010: _1910s_Upper_Class_Woman_2_Hair1
+    4300012: _1910s_Upper_Class_Woman_2_Pendants1
+    4300014: _1910s_Upper_Class_Woman_2_Body1
+    4300016: _1910s_Upper_Class_Woman_2_Eyelashes1
+    9500000: //RootNode
+    13700000: _1910s_Upper_Class_Woman_2_Body1
+    13700002: _1910s_Upper_Class_Woman_2_default1
+    13700004: _1910s_Upper_Class_Woman_2_DRESSES1
+    13700006: _1910s_Upper_Class_Woman_2_Eyelashes1
+    13700008: _1910s_Upper_Class_Woman_2_Gloves1
+    13700010: _1910s_Upper_Class_Woman_2_Hair1
+    13700012: _1910s_Upper_Class_Woman_2_Hats1
+    13700014: _1910s_Upper_Class_Woman_2_Pendants1
+    13700016: _1910s_Upper_Class_Woman_2_Shoes1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: _1910s_Upper_Class_Woman_2_mixamorig_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: 1910 Female Style 2_smoothed(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Body1
+      position: {x: -8.614734e-11, y: -0.00000015843572, z: -0.000000011402324}
+      rotation: {x: 0.00000008518563, y: -3.637978e-12, z: -2.9103827e-11, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_default1
+      position: {x: 1.4373698e-12, y: -3.4928016e-10, z: 6.469328e-10}
+      rotation: {x: 0.000000081460335, y: 9.693523e-27, z: 6.4623485e-27, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_DRESSES1
+      position: {x: -8.614734e-11, y: -0.00000015843572, z: -0.000000011402324}
+      rotation: {x: 0.00000008518563, y: -3.637978e-12, z: -2.9103827e-11, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Eyelashes1
+      position: {x: 1.4373698e-12, y: -3.4928016e-10, z: 6.469328e-10}
+      rotation: {x: 0.000000081460335, y: 9.693523e-27, z: 6.4623485e-27, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Gloves1
+      position: {x: 0.00000005149166, y: 0.000000067439395, z: -0.0000000010430703}
+      rotation: {x: 0.00000008146034, y: -2.910383e-11, z: -2.2737552e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Hair1
+      position: {x: -8.614734e-11, y: -0.00000015843572, z: -0.000000011402324}
+      rotation: {x: 0.00000008518563, y: -3.637978e-12, z: -2.9103827e-11, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Hats1
+      position: {x: 1.4373698e-12, y: -3.4928016e-10, z: 6.469328e-10}
+      rotation: {x: 0.000000081460335, y: 9.693523e-27, z: 6.4623485e-27, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Pendants1
+      position: {x: -8.614734e-11, y: -0.00000015843572, z: -0.000000011402324}
+      rotation: {x: 0.00000008518563, y: -3.637978e-12, z: -2.9103827e-11, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Shoes1
+      position: {x: 0.0000000063204606, y: 0.0000000024295146, z: 0.0000000014779655}
+      rotation: {x: 0.00000008146034, y: -1.8033161e-35, z: 9.260968e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000081460335, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2__1910s_Upper_Class_Woman_2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Eyelashes
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Eyelashes_end
+      position: {x: -0, y: 0.05494233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_default
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_default_end
+      position: {x: -0, y: 0.05494233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Body_end
+      position: {x: -0, y: 0.05494233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Shoes
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Shoes_end
+      position: {x: -0, y: 0.05494233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Pendants
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Pendants_end
+      position: {x: -0, y: 0.05494233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Gloves
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Gloves_end
+      position: {x: -0, y: 0.05494233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Hair_end
+      position: {x: -0, y: 0.05494233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_DRESSES
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_DRESSES_end
+      position: {x: -0, y: 0.05494233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Hats
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Hats_end
+      position: {x: -0, y: 0.05494233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_Hips
+      position: {x: 0.0000032560831, y: 1.0437858, z: 0.015725799}
+      rotation: {x: 1.2478374e-13, y: -0.000000061912736, z: 0.0000020154778, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_Spine
+      position: {x: 0.0000066327466, y: 0.101181716, z: 0.0013143491}
+      rotation: {x: -0.049392935, y: 0.000008855282, z: -0.00017781017, w: 0.9987794}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_Spine1
+      position: {x: -4.1857996e-11, y: 0.10094241, z: -0.000000015727839}
+      rotation: {x: -0.02446745, y: 0.000011566294, z: -0.0004725795, w: 0.9997005}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999998}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_Spine2
+      position: {x: -3.2403477e-10, y: 0.09211861, z: 0.000000039917747}
+      rotation: {x: -0.000000044703505, y: 9.094946e-12, z: -5.873062e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_Neck
+      position: {x: -0.0002477735, y: 0.16664144, z: -0.00048230073}
+      rotation: {x: 0.0738158, y: -0.0000012027239, z: 0.00064810953, w: 0.9972717}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_Head
+      position: {x: -0.00010903306, y: 0.09528686, z: 0.016622769}
+      rotation: {x: 0.0000000037768073, y: 1.819011e-12, z: 2.8623385e-11, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightEye
+      position: {x: 0.030557694, y: 0.063655704, z: 0.092494994}
+      rotation: {x: -1.3119085e-21, y: -9.044133e-18, z: -2.6286284e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightEye_end
+      position: {x: -0, y: 0.137184, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftEye
+      position: {x: -0.030587785, y: 0.063656926, z: 0.092494436}
+      rotation: {x: -1.3119085e-21, y: -9.044133e-18, z: -2.6286284e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftEye_end
+      position: {x: -0, y: 0.137184, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_HeadTop_End
+      position: {x: -0.000018797886, y: 0.17695068, z: 0.025727166}
+      rotation: {x: -1.0637543e-21, y: 1.0476395e-18, z: -8.4860695e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_HeadTop_End_end
+      position: {x: -0, y: 0.137184, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftShoulder
+      position: {x: -0.045572273, y: 0.11080088, z: -0.009620672}
+      rotation: {x: 0.44883412, y: -0.54528874, z: 0.5566, w: 0.4374981}
+      scale: {x: 1.0000001, y: 0.9999997, z: 1.0000004}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftArm
+      position: {x: -0.000000014305114, y: 0.10831299, z: 0.00000003516674}
+      rotation: {x: -0.010575903, y: 0.00091065164, z: -0.10774015, w: 0.99412245}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.99999994}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftForeArm
+      position: {x: 0.0000000033394099, y: 0.27757335, z: -0.000000032032077}
+      rotation: {x: -0.000000059811896, y: -0.0006030165, z: 0.00000042380609, w: 0.9999998}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHand
+      position: {x: -0.000000006728264, y: 0.28233683, z: -0.000000011589072}
+      rotation: {x: 0.008202174, y: -0.074816525, z: 0.0481445, w: 0.9960007}
+      scale: {x: 1, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandThumb1
+      position: {x: 0.02899482, y: 0.022281226, z: 0.015055871}
+      rotation: {x: 0.067289256, y: 0.010750459, z: -0.36205655, w: 0.9296621}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandThumb2
+      position: {x: 0.0026182258, y: 0.04144013, z: -0.00000018417835}
+      rotation: {x: -0.000047569614, y: 0.0012742907, z: -0.09988521, w: 0.99499816}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.9999998}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandThumb3
+      position: {x: -0.0046583116, y: 0.033783793, z: 0.00000012591481}
+      rotation: {x: 0.000013948531, y: -0.0005085054, z: 0.10892147, w: 0.99405026}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.99999976}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandThumb4
+      position: {x: 0.0020401096, y: 0.02504744, z: -0.00000009089708}
+      rotation: {x: -0.00000009126961, y: 0.000000057625577, z: -0.000000018742869,
+        w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandThumb4_end
+      position: {x: -0, y: 0.025130263, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandIndex1
+      position: {x: 0.031034812, y: 0.08833288, z: 0.0029905369}
+      rotation: {x: -0.011751119, y: 0.0007045568, z: -0.0424261, w: 0.99903023}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.9999998}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandIndex2
+      position: {x: 0.00036497688, y: 0.036631443, z: -0.0000002108352}
+      rotation: {x: 0.0000027963258, y: 0.00041014343, z: -0.000543116, w: 0.99999976}
+      scale: {x: 0.99999994, y: 1, z: 0.9999998}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandIndex3
+      position: {x: 0.0002547527, y: 0.02872281, z: 0.000000050637244}
+      rotation: {x: -0.000003346536, y: 0.0002108543, z: -0.017442182, w: 0.9998479}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandIndex4
+      position: {x: -0.0006197333, y: 0.023833474, z: 0.00000013659475}
+      rotation: {x: 0.00000008630741, y: 6.0852656e-11, z: -0.000000004155737, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandIndex4_end
+      position: {x: -0, y: 0.023841528, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandMiddle1
+      position: {x: 0.008995057, y: 0.094553456, z: -0.0022367802}
+      rotation: {x: -0.011755469, y: 0.00062335853, z: -0.04469149, w: 0.9989315}
+      scale: {x: 1, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandMiddle2
+      position: {x: 0.00019986811, y: 0.03685232, z: -0.00000016357284}
+      rotation: {x: 0.0000018819219, y: -0.00023509377, z: -0.0120158205, w: 0.9999278}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandMiddle3
+      position: {x: -0.0005471358, y: 0.029396586, z: -0.0000001350358}
+      rotation: {x: -0.0000016109823, y: 0.00015812893, z: 0.015445938, w: 0.99988073}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999997}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandMiddle4
+      position: {x: 0.00034729313, y: 0.028237948, z: -0.00000045366323}
+      rotation: {x: 0.000000045673616, y: 3.7928267e-12, z: -0.0000000018672455, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandMiddle4_end
+      position: {x: -0, y: 0.028240198, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandRing1
+      position: {x: -0.009910874, y: 0.09206649, z: -0.0016938607}
+      rotation: {x: -0.011872867, y: -0.0018269456, z: -0.04659456, w: 0.99884164}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandRing2
+      position: {x: 0.000049132108, y: 0.031430855, z: -0.000000108321835}
+      rotation: {x: -0.0000005989794, y: 0.000098816956, z: 0.002499894, w: 0.9999969}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandRing3
+      position: {x: 0.00019239663, y: 0.029272525, z: -0.00000018398525}
+      rotation: {x: -0.00000009026815, y: -0.000020395357, z: -0.007866113, w: 0.99996907}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandRing4
+      position: {x: -0.00024154007, y: 0.026379604, z: 0.00000009344665}
+      rotation: {x: -0.00000004247424, y: -0.000000013357727, z: -0.000000006122324,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandRing4_end
+      position: {x: -0, y: 0.026380582, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandPinky1
+      position: {x: -0.030119037, y: 0.08380982, z: 0.0029708536}
+      rotation: {x: -0.0120089585, y: -0.005096506, z: -0.050647505, w: 0.9986314}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandPinky2
+      position: {x: -0.00023751854, y: 0.03587456, z: 0.00000006790838}
+      rotation: {x: 0.0000014808913, y: 0.000008807027, z: 0.008442965, w: 0.99996436}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandPinky3
+      position: {x: 0.00021623015, y: 0.021067832, z: -0.000000082435434}
+      rotation: {x: 0.00000048695915, y: -0.000102614395, z: -0.004592859, w: 0.99998945}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandPinky4
+      position: {x: 0.000021280124, y: 0.019689698, z: -0.0000001812601}
+      rotation: {x: -0.000000001121066, y: -9.417933e-10, z: 0.0000000055987988, w: 1}
+      scale: {x: 1, y: 0.9999998, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftHandPinky4_end
+      position: {x: -0, y: 0.019689951, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightShoulder
+      position: {x: 0.04543078, y: 0.11131726, z: -0.009830471}
+      rotation: {x: -0.4487133, y: -0.54414606, z: 0.55721873, w: -0.43825644}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000002}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightArm
+      position: {x: 0.0000000023841857, y: 0.107977465, z: 0.00000020593404}
+      rotation: {x: -0.012171595, y: -0.0009608122, z: 0.10727374, w: 0.9941546}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightForeArm
+      position: {x: 0.0000000020607693, y: 0.2774582, z: -0.00000003604451}
+      rotation: {x: -0.00000027892315, y: 0.000605233, z: 0.000000081425725, w: 0.9999998}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHand
+      position: {x: 0.0000000065765926, y: 0.28233376, z: -0.00000016125617}
+      rotation: {x: 0.008138629, y: 0.07604962, z: -0.048159804, w: 0.99590707}
+      scale: {x: 1, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandPinky1
+      position: {x: 0.030119343, y: 0.08379926, z: 0.0029694608}
+      rotation: {x: -0.012003951, y: 0.0050730845, z: 0.050653316, w: 0.9986313}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandPinky2
+      position: {x: 0.00023772298, y: 0.035875108, z: -0.000000055261477}
+      rotation: {x: -0.00000045309068, y: -0.00000867493, z: -0.008443077, w: 0.99996436}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandPinky3
+      position: {x: -0.00021631837, y: 0.021067321, z: -0.00000002112094}
+      rotation: {x: 0.00000049348694, y: 0.00010237783, z: 0.004592893, w: 0.99998945}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandPinky4
+      position: {x: -0.000021401494, y: 0.01968898, z: -0.00000001036562}
+      rotation: {x: -0.0000000028526306, y: -9.381328e-10, z: 0.000000009184654, w: 1}
+      scale: {x: 1, y: 0.9999998, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandPinky4_end
+      position: {x: -0, y: 0.019689037, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandRing1
+      position: {x: 0.009910838, y: 0.092057005, z: -0.0016927476}
+      rotation: {x: -0.011868665, y: 0.0018127684, z: 0.04660019, w: 0.99884146}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandRing2
+      position: {x: -0.000049219132, y: 0.03143119, z: 0.00000011092474}
+      rotation: {x: -0.0000008615448, y: -0.000098752054, z: -0.002499845, w: 0.9999969}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandRing3
+      position: {x: -0.00019234895, y: 0.029272942, z: 0.000000024219334}
+      rotation: {x: -0.00000022412675, y: 0.000020315292, z: 0.007866197, w: 0.99996907}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandRing4
+      position: {x: 0.00024156213, y: 0.026378568, z: -0.00000008895411}
+      rotation: {x: 0.000000080927414, y: -0.000000012310474, z: -0.000000012809978,
+        w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandRing4_end
+      position: {x: -0, y: 0.026379587, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandMiddle1
+      position: {x: -0.008995279, y: 0.09454435, z: -0.0022353535}
+      rotation: {x: -0.011753371, y: -0.000629, z: 0.044696733, w: 0.9989313}
+      scale: {x: 1, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandMiddle2
+      position: {x: -0.00020002457, y: 0.03685254, z: -0.000000031523523}
+      rotation: {x: 0.000003490514, y: 0.00023517388, z: 0.012015748, w: 0.9999278}
+      scale: {x: 0.99999976, y: 1, z: 0.99999976}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandMiddle3
+      position: {x: 0.0005472095, y: 0.02939744, z: -0.000000091015245}
+      rotation: {x: -0.0000018484106, y: -0.00015819175, z: -0.015445674, w: 0.99988073}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandMiddle4
+      position: {x: -0.00034716493, y: 0.028238522, z: -0.00000000889704}
+      rotation: {x: -0.00000004257913, y: 4.122569e-11, z: 0.000000005348367, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandMiddle4_end
+      position: {x: -0, y: 0.028240656, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandIndex1
+      position: {x: -0.031034924, y: 0.08832184, z: 0.002989473}
+      rotation: {x: -0.011747233, y: -0.00070399477, z: 0.04243178, w: 0.99903005}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandIndex2
+      position: {x: -0.00036480694, y: 0.036631934, z: -0.0000001215875}
+      rotation: {x: 0.0000022745357, y: -0.00041007463, z: 0.0005429975, w: 0.99999976}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandIndex3
+      position: {x: -0.00025489597, y: 0.028722849, z: 0.00000021909305}
+      rotation: {x: -0.0000007239466, y: -0.00021069868, z: 0.017442204, w: 0.9998479}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandIndex4
+      position: {x: 0.0006196944, y: 0.023832826, z: 0.000000025676854}
+      rotation: {x: -0.000000047514053, y: 3.927525e-11, z: -0.0000000023074112, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandIndex4_end
+      position: {x: -0, y: 0.023840917, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandThumb1
+      position: {x: -0.028995551, y: 0.022266699, z: 0.015033928}
+      rotation: {x: 0.06728624, y: -0.010727367, z: 0.36201513, w: 0.9296787}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandThumb2
+      position: {x: -0.0026186109, y: 0.04143935, z: -0.000000021159648}
+      rotation: {x: -0.00004661128, y: -0.001272888, z: 0.09991264, w: 0.9949954}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandThumb3
+      position: {x: 0.0046585905, y: 0.033783644, z: -0.00000010125339}
+      rotation: {x: 0.000013345171, y: 0.0005070626, z: -0.10893649, w: 0.9940486}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandThumb4
+      position: {x: -0.0020400614, y: 0.025047673, z: -0.00000014483928}
+      rotation: {x: -0.00000003352761, y: 0.000000056345005, z: -0.0000000041909507,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightHandThumb4_end
+      position: {x: -0, y: 0.025130609, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftUpLeg
+      position: {x: -0.08180858, y: -0.067075014, z: -0.015946193}
+      rotation: {x: -0.0000035513863, y: 0.0030526333, z: 0.99999535, w: 0.000019279125}
+      scale: {x: 1, y: 1, z: 0.9993437}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftLeg
+      position: {x: 0.000000003966636, y: 0.44074234, z: 2.922934e-10}
+      rotation: {x: -0.036704034, y: -0.0000075381704, z: 0.000034885667, w: 0.99932617}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftFoot
+      position: {x: 0.000000014249949, y: 0.44231135, z: -0.0000000023025495}
+      rotation: {x: 0.46013212, y: 0.000108945234, z: -0.00011659219, w: 0.88785046}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftToeBase
+      position: {x: 0.000000003856767, y: 0.13757248, z: -2.986053e-10}
+      rotation: {x: 0.3343161, y: -0.00000014147301, z: 0.00000018449234, w: 0.942461}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999998}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftToe_End
+      position: {x: -0.0000000017136335, y: 0.09252927, z: -0.0000000014144461}
+      rotation: {x: 0.00000004542695, y: -1.907807e-12, z: 0.000000020241721, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_LeftToe_End_end
+      position: {x: -0, y: 0.09246855, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightUpLeg
+      position: {x: 0.08180186, y: -0.06707629, z: -0.015942026}
+      rotation: {x: 0.0000006391285, y: 0.0031353517, z: 0.9999951, w: 0.0000010271734}
+      scale: {x: 1, y: 1, z: 0.9997062}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightLeg
+      position: {x: -0.0000000069659136, y: 0.440748, z: -2.7454006e-10}
+      rotation: {x: -0.03686092, y: 0.0000015979833, z: -0.000002759462, w: 0.9993204}
+      scale: {x: 1, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightFoot
+      position: {x: 0.00000000738959, y: 0.44231024, z: 5.084257e-10}
+      rotation: {x: 0.46011898, y: 0.0000029898642, z: -0.00000029071464, w: 0.88785726}
+      scale: {x: 1, y: 0.9999999, z: 0.9999998}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightToeBase
+      position: {x: 0.000000013006123, y: 0.13754287, z: 0.00000001141574}
+      rotation: {x: 0.3343987, y: 0.00000013082047, z: -0.000000001066292, w: 0.9424317}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightToe_End
+      position: {x: -0.000000010111506, y: 0.09249556, z: 2.4618202e-10}
+      rotation: {x: -0.000000019717948, y: 1.3113122e-13, z: -0.00000002719814, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_mixamorig_RightToe_End_end
+      position: {x: -0, y: 0.09246841, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Eyelashes1 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Eyelashes1_end
+      position: {x: -0, y: 0.05494233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_default1 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_default1_end
+      position: {x: -0, y: 0.05494233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Body1 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Body1_end
+      position: {x: -0, y: 0.05494233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Shoes1 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Shoes1_end
+      position: {x: -0, y: 0.05494233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Pendants1 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Pendants1_end
+      position: {x: -0, y: 0.05494233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Gloves1 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Gloves1_end
+      position: {x: -0, y: 0.05494233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Hair1 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Hair1_end
+      position: {x: -0, y: 0.05494233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_DRESSES1 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_DRESSES1_end
+      position: {x: -0, y: 0.05494233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Hats1 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _1910s_Upper_Class_Woman_2_Hats1_end
+      position: {x: -0, y: 0.05494233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
