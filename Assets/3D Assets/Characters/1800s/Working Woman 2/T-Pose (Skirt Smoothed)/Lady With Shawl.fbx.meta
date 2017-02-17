@@ -102,6 +102,7 @@ ModelImporter:
     100188: Lady_With_Shawl_Tops1
     100190: Lady_With_Shawl_Tops1 1
     100192: U3DMesh
+    100194: U3DMesh 1
     400000: //RootNode
     400002: Lady_With_Shawl_Aprons
     400004: Lady_With_Shawl_Aprons0
@@ -199,6 +200,7 @@ ModelImporter:
     400188: Lady_With_Shawl_Tops1
     400190: Lady_With_Shawl_Tops1 1
     400192: U3DMesh
+    400194: U3DMesh 1
     2300000: Lady_With_Shawl_Body1
     2300002: Lady_With_Shawl_default1
     2300004: Lady_With_Shawl_Eyelashes1
@@ -227,6 +229,7 @@ ModelImporter:
     13700014: Lady_With_Shawl_Shoes1
     13700016: Lady_With_Shawl_Tops1
     13700018: U3DMesh
+    13700020: U3DMesh 1
   materials:
     importMaterials: 1
     materialName: 0

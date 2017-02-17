@@ -7,18 +7,19 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Window
-  m_Shader: {fileID: 4800000, guid: b637d1a1294d0f24dba4cb0ed8c4c935, type: 3}
-  m_ShaderKeywords: _EMISSION
+  m_Shader: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: _ALPHAPREMULTIPLY_ON _EMISSION _SPECGLOSSMAP
   m_LightmapFlags: 1
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
+  m_CustomRenderQueue: 3000
+  stringTagMap:
+    RenderType: Transparent
   m_SavedProperties:
     serializedVersion: 2
     m_TexEnvs:
     - first:
         name: _BumpMap
       second:
-        m_Texture: {fileID: 2800000, guid: 1f4a2874911a29f4d8931c7dfaf062f3, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - first:
@@ -48,13 +49,13 @@ Material:
     - first:
         name: _EnvTex
       second:
-        m_Texture: {fileID: 8900000, guid: 54c6ff9181b913e4589613781e59af0d, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - first:
         name: _MainTex
       second:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: fe26bc5ef824c4846be5ecdc200aabe0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - first:
@@ -87,6 +88,12 @@ Material:
         m_Texture: {fileID: 2800000, guid: 63eff70c04348b346b6099117c165e8f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - first:
+        name: _SpecGlossMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 58e5d6639c76fe4448d0b98d15a37f08, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
     - first:
         name: _BumpScale
@@ -102,13 +109,13 @@ Material:
       second: 1
     - first:
         name: _DstBlend
-      second: 0
+      second: 10
     - first:
         name: _FresnelAlpha
-      second: 1.53
+      second: 1.51
     - first:
         name: _FresnelPower
-      second: 1
+      second: 2.5
     - first:
         name: _FrezFalloff
       second: 6.5
@@ -117,7 +124,7 @@ Material:
       second: 0.61
     - first:
         name: _GlossMapScale
-      second: 1
+      second: 0.57
     - first:
         name: _Glossiness
       second: 0.5
@@ -126,10 +133,10 @@ Material:
       second: 1
     - first:
         name: _IOR
-      second: -0.871
+      second: -0.831
     - first:
         name: _IOROffset
-      second: 0.029
+      second: 0.018
     - first:
         name: _IndexG
       second: 0.923
@@ -141,7 +148,7 @@ Material:
       second: 0
     - first:
         name: _Mode
-      second: 0
+      second: 3
     - first:
         name: _OcclusionStrength
       second: 1
@@ -150,7 +157,7 @@ Material:
       second: 0.02
     - first:
         name: _RainbowInten
-      second: 0.07
+      second: 0.57
     - first:
         name: _Reflection
       second: 0.6
@@ -168,11 +175,14 @@ Material:
       second: 0
     - first:
         name: _ZWrite
-      second: 1
+      second: 0
     m_Colors:
     - first:
         name: _Color
-      second: {r: 1, g: 1, b: 1, a: 1}
+      second: {r: 0.5294118, g: 0.5294118, b: 0.5294118, a: 1}
     - first:
         name: _EmissionColor
-      second: {r: 0, g: 0, b: 0, a: 1}
+      second: {r: 0.03676468, g: 0.036224023, b: 0.036224023, a: 1}
+    - first:
+        name: _SpecColor
+      second: {r: 0.2, g: 0.2, b: 0.2, a: 1}
