@@ -202,8 +202,8 @@ ModelImporter:
     - serializedVersion: 16
       name: Painting_Sitting
       takeName: iPi Default Take
-      firstFrame: 180
-      lastFrame: 1351
+      firstFrame: 283
+      lastFrame: 612
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
