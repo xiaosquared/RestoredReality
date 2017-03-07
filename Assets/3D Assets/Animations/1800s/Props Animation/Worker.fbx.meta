@@ -1012,7 +1012,7 @@ ModelImporter:
     - serializedVersion: 16
       name: BlackSmithHammer
       takeName: BlackSmithHammer
-      firstFrame: 10
+      firstFrame: 42
       lastFrame: 53
       wrapMode: 0
       orientationOffsetY: 0
@@ -1020,7 +1020,7 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 1
       loopBlendPositionY: 1

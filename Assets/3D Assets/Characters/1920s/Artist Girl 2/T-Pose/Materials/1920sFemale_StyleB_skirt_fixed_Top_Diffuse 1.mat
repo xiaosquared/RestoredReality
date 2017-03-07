@@ -6,9 +6,9 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Wood
+  m_Name: 1920sFemale_StyleB_skirt_fixed_Top_Diffuse 1
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: _EMISSION
+  m_ShaderKeywords: _EMISSION _NORMALMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
   m_LightmapFlags: 1
   m_CustomRenderQueue: -1
   stringTagMap: {}
@@ -18,7 +18,7 @@ Material:
     - first:
         name: _BumpMap
       second:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 1668c610d34912149a46e992e98567a5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - first:
@@ -48,7 +48,7 @@ Material:
     - first:
         name: _MainTex
       second:
-        m_Texture: {fileID: 2800000, guid: cc79dbe72efe0d544b55871252e87dbb, type: 3}
+        m_Texture: {fileID: 2800000, guid: 44c451ea595d320409549a1c34ac1027, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - first:
@@ -87,7 +87,7 @@ Material:
       second: 1
     - first:
         name: _Glossiness
-      second: 0.23
+      second: 0.03
     - first:
         name: _GlossyReflections
       second: 1
@@ -105,7 +105,7 @@ Material:
       second: 0.02
     - first:
         name: _SmoothnessTextureChannel
-      second: 0
+      second: 1
     - first:
         name: _SpecularHighlights
       second: 1
@@ -121,7 +121,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.44852942, g: 0.44743767, b: 0.4089533, a: 1}
+      second: {r: 0.30882353, g: 0.29519895, b: 0.29519895, a: 1}
     - first:
         name: _EmissionColor
       second: {r: 0, g: 0, b: 0, a: 1}
