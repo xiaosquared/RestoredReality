@@ -38,3 +38,9 @@ MonoBehaviour:
     variableCategoryIDs: 00000000
   events:
   - No Initialization Needed
+  - 1800s Color Style
+  - 1920s Color Style
+  - Deactivate Line Shader
+  - Activate Line Shader
+  - Fader Color Black
+  - Fader Color White
